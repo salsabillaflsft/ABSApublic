@@ -1,9 +1,7 @@
 # ABSA BERT 
 ## :computer: Aspect-Based Sentiment Analysis system using BERT model — undergraduate thesis project docs :woman_student:
-<img width="1416" alt="Screen Shot 2023-04-15 at 03 17 14" src="https://user-images.githubusercontent.com/50274165/232146862-741150e4-3907-40aa-8046-cdb734541041.png">
 
 ### :paperclip: sources
-
 Transformers 
 - http://nlp.seas.harvard.edu/annotated-transformer/
 - https://huggingface.co/docs/transformers/index
@@ -18,3 +16,7 @@ IndoBERT
 
 BertViz 
 - https://github.com/jessevig/bertviz
+
+
++more breakdowns 
+- https://docs.google.com/spreadsheets/d/1YQXGzFjTo9JXnTEPHwUbDgif8nVmgTaIFRSSRgX7r3k/edit?usp=sharing
